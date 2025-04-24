@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.jpeg
+*.xml
+.env
+.DS_Store
+__pycache__/
